@@ -1,15 +1,13 @@
 {
-  "name": "nextra",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "potato-website",
+  "private": "true",
   "scripts": {
     "dev": "next",
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
-  "license": "MIT",
+  "author": "Edazpotato",
+  "license": "Unlicense",
   "dependencies": {
     "next": "^12.0.3",
     "nextra": "^1.1.0",
@@ -22,8 +20,4 @@
     "@types/react": "^17.0.31",
     "prettier": "^2.4.1"
   },
-  "prettier": {
-    "semi": false,
-    "singleQuote": true
-  }
 }
