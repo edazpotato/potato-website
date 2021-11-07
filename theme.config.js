@@ -23,4 +23,5 @@ export default {
   footer: true,
   footerEditOnGitHubLink: true,
   footerText: <>All content & code is public domain 🎉</>,
+  unstable_faviconGlyph: "🥔",
 }
