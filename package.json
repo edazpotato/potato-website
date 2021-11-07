@@ -1,6 +1,6 @@
 {
   "name": "potato-website",
-  "private": "true",
+  "private": true,
   "scripts": {
     "dev": "next",
     "start": "next start",
