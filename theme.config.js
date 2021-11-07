@@ -22,5 +22,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>© Copyright Edazpotato {new Date().getFullYear()}.</>,
+  footerText: <>All content & code is public domain 🎉</>,
 }
