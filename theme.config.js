@@ -1,6 +1,6 @@
 export default {
-  repository: 'https://github.com/edazpotato/potato',
-  docsRepository: 'https://github.com/edazpotato/potato-website',
+  github: 'https://github.com/edazpotato/potato',
+  docsRepositoryBase: 'https://github.com/edazpotato/potato-website',
   titleSuffix: ' – POTATO',
   logo: (
     <>
